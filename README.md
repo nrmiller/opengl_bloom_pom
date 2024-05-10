@@ -4,11 +4,12 @@ This project was completed as part of an independent study during my time in uni
 
 For the complete write-up on the project, please review the [Technical Description](doc/Technical%20Description.pdf).
 
+![Architecture](doc/System%20Architecture.png)
+
 ![Normal Mapping](doc/Normal%20Mapping%20Comparison.png)
 ![Bloom](doc/Bloom%20Comparison.png)
 ![POM](doc/POM%20Comparison.png)
 
-![Architecture](doc/System%20Architecture.png)
 
 ## Using the application
 
